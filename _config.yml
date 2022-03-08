@@ -103,3 +103,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  path: # blank (default) uses feed.xml
+  hide: true
